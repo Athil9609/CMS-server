@@ -1,0 +1,67 @@
+{
+  "Contact": [
+    {
+      "fname": "Adhil",
+      "lname": "Rahman",
+      "phNo": "9645549009",
+      "email": "adhiladhi516@gmail.co",
+      "id": 1
+    },
+    {
+      "fname": "Samual",
+      "lname": "k",
+      "phNo": "9048270306",
+      "email": "smualsam123@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "Joshi",
+      "lname": "v",
+      "phNo": "8086270306",
+      "email": "joshiv516@gmail.com",
+      "id": 3
+    },
+    {
+      "fname": "Akhil",
+      "lname": "k",
+      "phNo": "9048400516",
+      "email": "Akhil326@gmail.com",
+      "id": 4
+    },
+    {
+      "fname": "Muhd",
+      "lname": "Aseem",
+      "phNo": "8011459601",
+      "email": "aseem416@gmail.co",
+      "id": 5
+    }
+  ],
+  "Category": [
+    {
+      "title": "Work",
+      "Contact": [
+        {
+          "fname": "Joshi",
+          "lname": "v",
+          "phNo": "8086270306",
+          "email": "joshiv516@gmail.com",
+          "id": 3
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "favourites",
+      "Contact": [
+        {
+          "fname": "Muhd",
+          "lname": "Aseem",
+          "phNo": "8011459601",
+          "email": "aseem416@gmail.co",
+          "id": 5
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
